@@ -1,6 +1,7 @@
-function App() {
+import Chat from "./components/Chat";
 
-  return <p>Lol</p>;
+function App() {
+  return <Chat></Chat>;
 }
 
 export default App;
